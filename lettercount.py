@@ -1,3 +1,13 @@
+# lettercount.py
+# A Python script that counts every letter in a given text.
+# http://www.meganspeir.com
+#
+# Copyright (C) 2013 Megan Speir. All rights reserved.
+#
+# Licensed under The BSD 3-Clause License. You may not use this file except
+# in compliance with the License. You may obtain a copy of the License at
+# http://opensource.org/licenses/BSD-3-Clause
+
 from sys import argv
 
 script, inputfile = argv
